@@ -11,6 +11,6 @@ But... the main mod of the pack, Primal Winter, is incompatible with BGCore, the
 Both of these mods drastically change how the world is generated... and when they clash, every single tree in the world decides to just peace the fuck out.
 We need a solution. I need y'all to tear this final beta version of Permafrost to goddamn SHREDS to try and find a way for these two mods to coexist.
 
-This may be the apocalypse, but the apocalypse is better than the fucking Onceler.
+This modpack may be the apocalypse, but, like... the apocalypse is better than the fucking Onceler.
 
 Again. Thanks. All of you. 
